@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+#user-name{
+    color: blue;
+}
+#user-surname{
+    color: blueviolet;
+}
+#user-favourite-color{
+    color: green;
+}
